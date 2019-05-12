@@ -1,0 +1,31 @@
+name: BanSystem
+version: 0.1
+author: Tempoo50
+main: de.ban.Main.BanSystem
+
+commands:
+   banid:
+      description: Siehe alle BanId!
+   ban:
+      description: Banne einen Spieler!
+   checkban:
+      description: Siehe den Banstatus von einem Spieler!
+   getbans:
+      description: Sehe alle Bans von einem Spieler!
+   kick:
+      description: Kicke einen Spieler!
+   kickall:
+      description: Kicke alle Spieler vom Server!
+   rembans:
+      description: Loesche alle Bans vom Spieler!
+   unban:
+      description: Entbanne einen Spieler!
+   tempban:
+      description: Banne einen Spieler temporaer!
+   mute:
+      description: Mute einen Spieler!
+   einheiten:
+      description:
+   bansystem:
+      description:
+   
